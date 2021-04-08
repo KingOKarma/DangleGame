@@ -57,10 +57,6 @@
 				"Linux",
 				"Mac"
 			]
-		},
-		{
-			"Name": "SteamController",
-			"Enabled": true
 		}
 	]
 }
